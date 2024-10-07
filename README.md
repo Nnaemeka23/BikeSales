@@ -1,5 +1,5 @@
 # Bike sales Analysis
-## A demo project on BIKE SALES data analytics project
+## Demo Project On Bike Sales Analysis 
 This analysis project aims the company to have an insight and overview of there sales performance of their bike sales over the past years. With this analysis we are to identify the trends, seek data driven recommendation and understand the key performance of the company.
 ## Data sources
 Dataset: This dataset used for the analysis is “bike_share_yr_-0.csv”, “bike_share_yr_1.csv”, containing the sales detail of the company.
@@ -18,6 +18,10 @@ In the course of preparation in this stage, the following task was performed
 -	Profit and revenue trends 
 -	Seasonal revenue 
 -	Riders’ demographics
+### Challenges faced 
+The Dataset of the was not really easy to clean and format 
+Making Changes in price that won't affect the customer's demand and been accurracy with the data
+  
 ## Results
 We discovered the following 
 1.	Hourly Revenue Analysis: The hourly revenue tends to increase in the morning time and also reduces during the evening  When work must have dismissed but no much sales during the day time
