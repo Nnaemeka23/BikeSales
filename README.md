@@ -26,7 +26,7 @@ We discovered the following
 4.	Riders’ Demographics: the riders are two  Department which is Casual which is 50% and Registered which is also 50%. But Registered members bring more revenue than Casual.
 5.	Key Performance Indicators (KPIs): We calculated the profit for both year_1 and year_2 and found that the increase in price of year_2 didn’t not affect the quantity demanded rather there was high in demand. 
 
- 
+  ![Image Alt]().
 
 
 # RECOMMENDATION 
