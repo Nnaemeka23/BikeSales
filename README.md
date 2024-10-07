@@ -2,7 +2,7 @@
 ## Demo Project On Bike Sales Analysis 
 This analysis project aims the company to have an insight and overview of there sales performance of their bike sales over the past years. With this analysis we are to identify the trends, seek data driven recommendation and understand the key performance of the company.
 ## Data sources
-Dataset: This dataset used for the analysis is “bike_share_yr_-0.csv”, “bike_share_yr_1.csv”, containing the sales detail of the company.
+Dataset: This dataset used for the analysis is “bike_share_yr_-0.csv”, “bike_share_yr_1.csv” was gotten from kaggle, containing the bike sales detail of the company.
 ## Tools for Analysis
 -	Excel – Data cleaning [view Dataset](https://github.com/Nnaemeka23/BikeSales/tree/main/asset/dataset)
 -	SQL server – Querying And Data Analysis [view Queries](https://github.com/Nnaemeka23/BikeSales/blob/main/asset/sql_folder/BIKE_ANALYSIS.sql)
