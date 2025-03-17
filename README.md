@@ -24,11 +24,30 @@ Making Changes in price that won't affect the customer's demand and been accurra
   
 ## Results
 We discovered the following 
-1.	Hourly Revenue Analysis: The hourly revenue tends to increase in the morning time and also reduces during the evening  When work must have dismissed but no much sales during the day time
-2.	Profit & Revenue Trend : From our Analysis and visuals we found that the revenue increases seasonally mostly during the summer, autumn and spring but there’s low sales and profit during the winter season.
-3.	Seasonal revenue: there’s progression from the send quarter of the year till the end of the year but the first quarter is not really productive in terms of profit and revenue
-4.	Riders’ Demographics: the riders are two  Department which is Casual which is 50% and Registered which is also 50%. But Registered members bring more revenue than Casual.
-5.	Key Performance Indicators (KPIs): We calculated the profit for both year_1 and year_2 and found that the increase in price of year_2 didn’t not affect the quantity demanded rather there was high in demand. 
+### 1.Hourly Revenue Patterns:
+
+Morning Surge: Revenue experiences a significant uptick during morning hours. This could be attributed to factors such as increased consumer activity at the start of the day, promotional strategies targeting early shoppers, or specific product offerings aligned with morning routines.
+Midday Decline: A noticeable dip in sales occurs during the midday period. This trend might result from reduced consumer engagement during typical work or school hours, suggesting a potential area for targeted marketing or promotional interventions to boost sales during these times.
+Evening Reduction: Post-work hours see a decline in revenue. This pattern could be influenced by factors such as consumer fatigue after a long day, competition with other evening activities, or a lack of targeted evening promotions.
+
+### 2.Seasonal Profit and Revenue Trends:
+
+Peak Seasons: There is a marked increase in revenue and profit during the summer, autumn, and spring seasons. This trend aligns with general consumer behavior patterns, where spending typically rises during warmer months and festive periods.
+Winter Slump: A downturn in sales and profit is observed during the winter months. This could be due to factors such as reduced consumer spending post-holiday season, adverse weather conditions limiting shopping activities, or a shift in consumer priorities during colder periods. For instance, unseasonably warm weather has been reported to negatively impact sales of winter apparel, as consumers delay purchasing items like coats and boots. 
+
+### 3.Quarterly Revenue Progression:
+
+Second to Fourth Quarter Growth: A consistent upward trajectory in revenue is noted from the second quarter through the end of the year. This progression may be linked to factors such as back-to-school shopping, holiday season spending, and favorable weather conditions encouraging consumer activity.
+First Quarter Challenges: The first quarter exhibits lower productivity in terms of profit and revenue. This period often coincides with post-holiday spending fatigue, inclement weather deterring shopping, or a lack of major shopping events to stimulate consumer interest.
+
+### 4.Rider Demographics and Revenue Contribution:
+
+Equal Distribution: The rider base is evenly divided between Casual and Registered members, each accounting for 50% of the total.
+Revenue Disparity: Despite equal representation, Registered members contribute more substantially to revenue. This disparity could be due to factors such as loyalty programs, exclusive promotions for registered users, or a higher frequency of purchases among Registered members.
+
+### 5.Key Performance Indicators (KPIs) and Pricing Strategy:
+
+Price Increase Impact: An analysis comparing year_1 and year_2 reveals that an increase in prices during year_2 did not deter consumers; instead, there was a notable rise in demand. This counterintuitive outcome suggests factors such as perceived value, brand strength, or effective marketing strategies mitigating the potential negative impact of higher prices. It also underscores the importance of understanding price elasticity and consumer behavior in pricing decisions.
 
   ![Image Alt](https://github.com/Nnaemeka23/BikeSales/blob/main/asset/BikeSales%20Dashboard.png?raw=true).
 
